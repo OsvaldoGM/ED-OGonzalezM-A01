@@ -199,6 +199,6 @@ int Triangulo::getC() {
 	return this->csen;
 }
 
-int Triangulo::getB() {
-	return this->base;
+int Triangulo::getT() {
+	return this->tan;
 }
